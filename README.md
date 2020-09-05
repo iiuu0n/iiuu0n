@@ -13,7 +13,7 @@ My motivation comes from solving curiosity🤔. I'm trying to create a page that
 
 ## Get in touch
 - [Twitter](https://twitter.com/dnexxi 'twitter')
-- [Facebook](https://facebook.com/febacook 'facebook')
-- [Instagram](https://instagram.com/instarmga 'instagram')
+- [Facebook](https://facebook.com/dnexxi 'facebook')
+- [Instagram](https://instagram.com/dnexxi 'instagram')
 - [Blog](https://dessin.dev 'blog')
 
