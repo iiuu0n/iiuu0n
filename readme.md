@@ -1,17 +1,13 @@
-# Jiwon Min
-👋 Hi. I'm Jiwon, a web developer. I've experienced Java Spring Framework and Android development, and now I'm developing it using PHP. I'm interested in JavaScript now, and I'm studying NodeJS. Deno is also interested. Of course, I'm going to study after it stabilizes😅. And most of all, the language I want to learn the most is English. I need a translator now, but I want to understand it like a native speaker someday💦.
+<center>
+  
+![GitHub followers](https://img.shields.io/github/followers/jiwou?color=%23292A36&logo=github&logoColor=%23E1E1E1&style=flat-square)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiwou&count_bg=%23292A36&title_bg=%23292A36&icon=github.svg&icon_color=%23E1E1E1&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
-## My values
-* 🕐 Living in my timeline
-* 🤬 Honest expression of emotion
-* 🎓 Keep the original intention
-* 🚸 Safety comes first
-* 🤹 Think funny and young
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwou&layout=compact&theme=dracula&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-## How I work
-My motivation comes from solving curiosity🤔. I'm trying to create a page that can maximize the user experience, and try various experimental developments. Sometimes I become lazy and don't practice my set goals💤, but I always try ✨not to forget✨ my original purpose with an obsession.
+[![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jiwon.fb)](https://facebook.com/jiwon.fb)
+[![Twitter](https://img.shields.io/badge/twitter-299feb?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/jiwon_tw)](https://www.twitter.com/jiwon_tw)
+[![Instagram](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jiwon.ig)](https://www.instagram/jiwon.ig)
+[![Gmail](https://img.shields.io/badge/gmail-ea4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:jiwonov@gmail.com)](mailto:jiwonov@gmail.com)
 
-## Get in touch
-- [Facebook](https://facebook.com/jiwon.fb 'Facebook')
-- [Instagram](https://instagram.com/jiwon.ig 'Instagram')
-- [E-Mail](mailto:jiwonov@gmail.com 'E-Mail')
+</center>
